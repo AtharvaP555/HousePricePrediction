@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual Environment ---
+venv/
+.env/
+.venv/
+
+# --- Jupyter Notebook Checkpoints (in case later added) ---
+.ipynb_checkpoints/
+
+# --- Pytest Cache ---
+.pytest_cache/
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Data & Models ---
+/data/*
+!/data/AmesHousing.csv  
+/models/*
+!/models/.gitkeep   
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
