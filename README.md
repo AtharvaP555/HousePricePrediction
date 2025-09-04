@@ -5,6 +5,12 @@ The project explores different regression algorithms and deploys a **Streamlit w
 
 ---
 
+## Live Demo
+
+https://housepriceprediction-atharva.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - Data preprocessing and cleaning for reliable predictions
